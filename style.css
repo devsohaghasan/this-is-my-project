@@ -1,0 +1,70 @@
+body{
+    font-family: 'Oswald', sans-serif;
+}
+h1{
+    font-size: 40px;
+}
+.orange{
+   color: chocolate; 
+}
+section{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+/*   */
+.half-width img{
+    width: 300px
+}
+.link-button{
+    text-decoration: none;
+    background-color: rgb(246, 147, 8);
+    padding: 10px 40px;
+    border-radius: 5px;
+
+}
+img{
+    border-radius: 200px;
+}
+
+
+.side{
+    width: 70%;
+    padding-right: 20px;
+}
+.side img{
+    width: 100%;
+}
+.shohag{
+    display: flex;
+}
+.link-but{
+    background-color: rgb(148, 47, 47);
+    padding: 5px 30px;
+    border-radius: 10px;
+    width: 120px;
+}
+.experence{
+    width: 70%;
+}
+.border{
+    
+    width: 40%;
+    box-shadow:10px 10px 30px rgb(8, 8, 8);
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 10px;
+    padding-top: 3;
+    padding-bottom: 5;
+}
+
+#star-developer{
+    border-left: 8px solid tomato;
+}
+#baby-developer{
+    border-left: 8px solid rgb(47, 5, 155);
+}
+footer p{
+    text-align: center;
+    color: cadetblue;
+}
